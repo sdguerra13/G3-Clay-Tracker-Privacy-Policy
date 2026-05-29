@@ -2,11 +2,11 @@
 
 Effective Date: May 29, 2026
 
-Sporting Clays is designed to help users track sporting clays tournaments, stations, shooters, scores, locations, and weather conditions.
+G3 Sporting Clays is designed to help users track sporting clays tournaments, stations, shooters, scores, locations, and weather conditions.
 
 ## Information We Store
 
-Sporting Clays stores the information you enter into the app, including:
+G3 Sporting Clays stores the information you enter into the app, including:
 
 - Tournament names and dates
 - Station details
@@ -19,7 +19,7 @@ This information is stored locally on your device using Apple’s local app stor
 
 ## Microphone and Speech Recognition
 
-Sporting Clays includes an optional voice scoring feature. If you enable voice scoring, the app requests access to your microphone and Apple Speech Recognition.
+G3 Sporting Clays includes an optional voice scoring feature. If you enable voice scoring, the app requests access to your microphone and Apple Speech Recognition.
 
 The microphone is used only while voice scoring is active so the app can listen for scoring commands such as “dead” or “lost.” Speech recognition results are used to enter scores in the app.
 
@@ -27,13 +27,13 @@ Speech recognition may be processed by Apple’s speech recognition services, de
 
 ## Location and Weather
 
-Sporting Clays does not request access to your device’s current GPS location.
+G3 Sporting Clays does not request access to your device’s current GPS location.
 
 If you add a location name and choose to fetch current weather, the app may send that location name to Apple MapKit to find coordinates, and then use Apple WeatherKit to retrieve weather conditions for that location. The resulting weather snapshot may be saved with your tournament.
 
 ## Analytics, Advertising, and Tracking
 
-Sporting Clays does not currently use third-party analytics, advertising SDKs, or tracking technologies.
+G3 Sporting Clays does not currently use third-party analytics, advertising SDKs, or tracking technologies.
 
 We do not sell your data.
 
@@ -41,7 +41,7 @@ We do not track you across apps or websites.
 
 ## Data Sharing
 
-Sporting Clays does not share your locally stored tournament, shooter, or score data with us.
+G3 Sporting Clays does not share your locally stored tournament, shooter, or score data with us.
 
 Some app features rely on Apple services, including:
 
@@ -57,7 +57,7 @@ You can delete tournaments, locations, shooters, stations, and scores directly i
 
 ## Children’s Privacy
 
-Sporting Clays is not intended to collect personal information from children. The app does not knowingly collect personal information from children through accounts, forms, analytics, or tracking tools.
+G3 Sporting Clays is not intended to collect personal information from children. The app does not knowingly collect personal information from children through accounts, forms, analytics, or tracking tools.
 
 ## Changes to This Policy
 
